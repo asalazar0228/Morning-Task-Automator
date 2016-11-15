@@ -24,6 +24,6 @@ Files Requiring modifications----
 
 The following lines in files require modification:
 
-#### lines 7,8 in email_helpers.py. Place in your gmail username and password
+#### ---lines 7,8 in email_helpers.py--- Place in your gmail username and password
 
-#### lines 5,6,10 in text_twilio.py. Place your twilio account info and phone number provided
+#### ---lines 5,6,10 in text_twilio.py--- Place your twilio account info and phone number provided
