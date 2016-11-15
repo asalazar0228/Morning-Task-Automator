@@ -1,5 +1,5 @@
 Installations:
 
-'''shell
+'''bash
 pip install requests
 '''
