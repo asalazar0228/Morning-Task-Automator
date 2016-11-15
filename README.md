@@ -39,3 +39,16 @@ Install SpeechRecognition
 ```bash
 pip install SpeechRecognition
 ```
+---------Files Requiring modifications---------
+
+The following lines in files require modification:
+
+#### --- Lines 7, 8 in email_helpers.py --- 
+Place in your gmail username and password
+
+#### --- Lines 5, 6, 10 in text_twilio.py --- 
+Place your twilio account info and phone number provided
+
+#### --- Lines 57, 94 in Morning Task Automator.py ---
+Place number you would like to send to
+
