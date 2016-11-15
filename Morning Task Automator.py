@@ -54,7 +54,7 @@ audio_notes_question = voicerec_helper.rec_audio_response('Would you like me to 
 
 if(audio_notes_question == "text"):
     file_contents = file_helpers.file_read()
-    text_twilio.text(file_contents, "+13236844345")
+    text_twilio.text(file_contents, "NUMBER TO SEND TO HERE")
 
 if(audio_notes_question == "none"):
     print "Alright sounds good :)"
