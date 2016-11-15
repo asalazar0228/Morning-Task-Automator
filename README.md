@@ -3,7 +3,7 @@
 The purpose of this script is to automate my morning routines. 
 Note: Uses voice recognition for responses.
 
-Before using make sure all dependencies are installed.
+Before using make sure all dependencies are installed and you have set up login information for twilio and your email.
 
 The current version supports the following tasks:
 
